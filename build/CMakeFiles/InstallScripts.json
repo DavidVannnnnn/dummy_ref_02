@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"E:/Robot/Firmware/dummy-ref-core-fw/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
